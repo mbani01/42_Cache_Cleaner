@@ -1,5 +1,5 @@
 # 42_Cache_Cleaner
-Remove caches and unnecessary files in order to get more storage 
+Remove caches and unnecessary files from 42 sessions in order to get more storage 
 
 # Run
 ``` sh
